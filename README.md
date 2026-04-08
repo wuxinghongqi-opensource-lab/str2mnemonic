@@ -1,6 +1,6 @@
 # str2mnemonic：字符串 / 密码与助记词双向转换工具
 
-**
+
 
 ## 项目简介 / Project Overview
 
